@@ -1,0 +1,19 @@
+Mod Name:			Mod Link:										Version:
+
+Forge 				http://files.minecraftforge.net/							forge-1.16.5-36.0.1
+Create 				https://www.curseforge.com/minecraft/mc-mods/create/					mc1.16.3_v0.3e
+Optifine			https://optifine.net/downloads/								1.16.5_HD_U_G6
+Mystical Agriculture 		https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture/			1.16.4-4.1.4
+				https://www.curseforge.com/minecraft/mc-mods/cucumber/				
+Snad 				https://www.curseforge.com/minecraft/mc-mods/snad-back-to-the-past/			1.0.3-1.16.4
+Just Enough Items 		https://www.curseforge.com/minecraft/mc-mods/jei/					1.16.4-7.6.1.65
+Inventory Pets 			https://www.curseforge.com/minecraft/mc-mods/inventory-pets/				2.0.11
+Biomes O' Plenty 		https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty/				1.16.4-13.0.0.430-universal
+Waystones 			https://www.curseforge.com/minecraft/mc-mods/waystones/					1.16.3-7.3.1
+ProjectE (EE2 updated)		https://github.com/sinkillerj/ProjectE/tree/mc1.16.x/					projecte-1.0.4-universal
+Better Mineshafts		https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge/		1.16.4-2.0.1
+				https://www.curseforge.com/minecraft/mc-mods/yungs-api				
+Neat				https://www.curseforge.com/minecraft/mc-mods/neat					1.7-26
+AppleSkin			https://www.curseforge.com/minecraft/mc-mods/appleskin					1.16.2-forge-1.0.14
+Durability Viewer		https://www.curseforge.com/minecraft/mc-mods/giselbaers-durability-viewer		1.16.4-forge35.0.7-1.10
+Corpse			https://www.curseforge.com/minecraft/mc-mods/corpse				1.16.5-1.0.0
