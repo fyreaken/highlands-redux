@@ -5,4 +5,6 @@
 ### 1.16.4 TechnicPack Link: <>
 ### TechnicLauncher Link: <>
 
-Mod credits can be found inside modcredits12.txt and modcredits16.txt.
+1.12.2 Mod credits can be found inside modcredits12.txt.
+
+1.16.4 Mod credits can be found inside modcredits16.txt.
