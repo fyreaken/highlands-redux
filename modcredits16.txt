@@ -17,3 +17,4 @@ Neat				https://www.curseforge.com/minecraft/mc-mods/neat					1.7-26
 AppleSkin			https://www.curseforge.com/minecraft/mc-mods/appleskin					1.16.2-forge-1.0.14
 Durability Viewer		https://www.curseforge.com/minecraft/mc-mods/giselbaers-durability-viewer		1.16.4-forge35.0.7-1.10
 Corpse			https://www.curseforge.com/minecraft/mc-mods/corpse				1.16.5-1.0.0
+Valhelsia Structures	https://www.curseforge.com/minecraft/mc-mods/valhelsia-structures		16.0.5
