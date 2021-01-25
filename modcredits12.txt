@@ -2,3 +2,36 @@ Mod Name:			Mod Link:										Version:
 
 Aether II Highlands			https://www.curseforge.com/minecraft/mc-mods/the-aether-ii				1.12.2-0.3.0+build411-universal
 ProjectE				https://www.curseforge.com/minecraft/mc-mods/projecte					1.12.2-PE1.4.1
+Waystones			https://www.curseforge.com/minecraft/mc-mods/waystones				1.12.2-4.1.0
+Biomes O' Plenty			https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty/				1.12.2-7.0.1.2444-universal
+AppleSkin				https://www.curseforge.com/minecraft/mc-mods/appleskin/				mc1.12-1.0.14.jar
+Just Enough Items			https://www.curseforge.com/minecraft/mc-mods/jei/					1.12.2-4.16.1.302
+Optifine				https://optifine.net/downloads							1.12.2_HD_U_G5
+Twilight Forest			https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest				1.12.2 - 3.11.1021
+Neat				https://www.curseforge.com/minecraft/mc-mods/neat/					1.4-17
+TConstruct			https://www.curseforge.com/minecraft/mc-mods/tinkers-construct/				1.12.2-2.13.0.183
+InventoryPets			https://www.curseforge.com/minecraft/mc-mods/inventory-pets/				1.12-2.0.10
+Forestry				https://www.curseforge.com/minecraft/mc-mods/forestry/					1.12.2-5.8.2.422
+AtomicStryker's Infernal Mobs	https://www.curseforge.com/minecraft/mc-mods/atomicstrykers-infernal-mobs/		1.12.2
+IC2Classic			https://www.curseforge.com/minecraft/mc-mods/ic2-classic/				1.12-1.5.5.2.1
+Buildcraft				https://www.curseforge.com/minecraft/mc-mods/buildcraft/				7.99.24.7
+Better Mineshafts			https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge/		1.12.2-2.1.1
+Tinker's Tool Leveling		https://www.curseforge.com/minecraft/mc-mods/tinkers-tool-leveling/			1.12.2-1.1.0
+JEI Bees				https://www.curseforge.com/minecraft/mc-mods/jei-bees					0.9.0.5-mc1.12.2
+Tinker's JEI			https://www.curseforge.com/minecraft/mc-mods/tinkers-jei/				1.2
+Sync				https://www.curseforge.com/minecraft/mc-mods/sync/					1.12.2-7.1.0
+Modular Forcefield System		https://www.curseforge.com/minecraft/mc-mods/modular-forcefield-system/			1.12.2-4.0.1.0_1.12_cc3a5aa
+Modular Powersuits		https://www.curseforge.com/minecraft/mc-mods/modular-powersuits/			1.12.2-1.0.46
+ExpandedEquivalence		https://www.curseforge.com/minecraft/mc-mods/expanded-equivalence/			1.12.2-12.3.17
+Durability Viewer			https://www.curseforge.com/minecraft/mc-mods/giselbaers-durability-viewer/			1.12-forge14.21.1.2387-1.6
+Redstone Paste			https://www.curseforge.com/minecraft/mc-mods/redstone-paste/				mc1.12-1.7.5
+Blur				https://www.curseforge.com/minecraft/mc-mods/blur/					1.0.4
+Corpse				https://www.curseforge.com/minecraft/mc-mods/corpse/					1.12.2-1.0.8
+Ping				https://www.curseforge.com/minecraft/mc-mods/ping/					1.12.2-1.4.5
+Future Versions			https://www.curseforge.com/minecraft/mc-mods/future-minecraft/				v1.3.1
+Better Ping Display			https://www.curseforge.com/minecraft/mc-mods/better-ping-display				1.12.2-1.0
+Treecapitator			https://www.curseforge.com/minecraft/mc-mods/treecapitator-updated			1.43.0
+Compact Machines			https://www.curseforge.com/minecraft/mc-mods/compact-machines/			1.12.2-3.0.18-b278
+
+
+
