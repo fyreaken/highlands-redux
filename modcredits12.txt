@@ -1,2 +1,4 @@
 Mod Name:			Mod Link:										Version:
 
+Aether II Highlands			https://www.curseforge.com/minecraft/mc-mods/the-aether-ii				1.12.2-0.3.0+build411-universal
+ProjectE				https://www.curseforge.com/minecraft/mc-mods/projecte					1.12.2-PE1.4.1
