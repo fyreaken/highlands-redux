@@ -1,5 +1,6 @@
 Mod Name:			Mod Link:										Version:
 
+Forge				http://files.minecraftforge.net/							1.12.2-14.23.5.2854
 Aether II Highlands			https://www.curseforge.com/minecraft/mc-mods/the-aether-ii				1.12.2-0.3.0+build411-universal
 ProjectE				https://www.curseforge.com/minecraft/mc-mods/projecte					1.12.2-PE1.4.1
 Waystones			https://www.curseforge.com/minecraft/mc-mods/waystones				1.12.2-4.1.0
