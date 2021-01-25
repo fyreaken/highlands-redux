@@ -21,7 +21,6 @@ Tinker's Tool Leveling		https://www.curseforge.com/minecraft/mc-mods/tinkers-too
 JEI Bees			https://www.curseforge.com/minecraft/mc-mods/jei-bees					0.9.0.5-mc1.12.2
 Tinker's JEI			https://www.curseforge.com/minecraft/mc-mods/tinkers-jei/				1.2
 Sync				https://www.curseforge.com/minecraft/mc-mods/sync/					1.12.2-7.1.0
-Modular Forcefield System	https://www.curseforge.com/minecraft/mc-mods/modular-forcefield-system/			1.12.2-4.0.1.0_1.12_cc3a5aa
 Modular Powersuits		https://www.curseforge.com/minecraft/mc-mods/modular-powersuits/			1.12.2-1.0.46
 ExpandedEquivalence		https://www.curseforge.com/minecraft/mc-mods/expanded-equivalence/			1.12.2-12.3.17
 Durability Viewer		https://www.curseforge.com/minecraft/mc-mods/giselbaers-durability-viewer/		1.12-forge14.21.1.2387-1.6
