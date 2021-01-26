@@ -1,7 +1,8 @@
 Mod Name:						Mod Link:										Version:
 
 Forge							http://files.minecraftforge.net/							1.12.2-14.23.5.2854
-Aether I (+ Aether II Highlands 0.3.0 ported textures)	https://www.curseforge.com/minecraft/mc-mods/the-aether					1.12.2-v1.5.3.1
+Aether I	https://www.curseforge.com/minecraft/mc-mods/the-aether					1.12.2-v1.5.3.1
+Aether II Highlands
 ProjectE						https://www.curseforge.com/minecraft/mc-mods/projecte					1.12.2-PE1.4.1
 Waystones						https://www.curseforge.com/minecraft/mc-mods/waystones					1.12.2-4.1.0
 Biomes O' Plenty					https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty/				1.12.2-7.0.1.2444-universal
