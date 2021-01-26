@@ -24,7 +24,7 @@ JEI Bees				https://www.curseforge.com/minecraft/mc-mods/jei-bees					0.9.0.5-mc
 Tinker's JEI				https://www.curseforge.com/minecraft/mc-mods/tinkers-jei/				1.2
 Sync					https://www.curseforge.com/minecraft/mc-mods/sync/					1.12.2-7.1.0
 Modular Powersuits			https://www.curseforge.com/minecraft/mc-mods/modular-powersuits/			1.12.2-1.0.46
-Modular Force Field Systems			https://www.curseforge.com/minecraft/mc-mods/modular-forcefield-system/			1.12.2-4.0.1.0_1.12_cc3a5aa
+Modular Force Field Systems		https://www.curseforge.com/minecraft/mc-mods/modular-forcefield-system/			1.12.2-4.0.1.0_1.12_cc3a5aa
 ExpandedEquivalence			https://www.curseforge.com/minecraft/mc-mods/expanded-equivalence/			1.12.2-12.3.17
 Durability Viewer			https://www.curseforge.com/minecraft/mc-mods/giselbaers-durability-viewer/		1.12-forge14.21.1.2387-1.6
 Redstone Paste				https://www.curseforge.com/minecraft/mc-mods/redstone-paste/				mc1.12-1.7.5
@@ -34,8 +34,8 @@ Ping					https://www.curseforge.com/minecraft/mc-mods/ping/					1.12.2-1.4.5
 Better Ping Display			https://www.curseforge.com/minecraft/mc-mods/better-ping-display			1.12.2-1.0
 Treecapitator				https://www.curseforge.com/minecraft/mc-mods/treecapitator-updated			1.43.0
 Compact Machines			https://www.curseforge.com/minecraft/mc-mods/compact-machines/				1.12.2-3.0.18-b278
-Wireless Redstone CBE		https://www.curseforge.com/minecraft/mc-mods/wireless-redstone-cbe/				1.12.2-2.3.2.33-universal
+Wireless Redstone CBE			https://www.curseforge.com/minecraft/mc-mods/wireless-redstone-cbe/			1.12.2-2.3.2.33-universal
 ProjectRed 			https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1290357-forge-multipart-projectred-v4-7-0pre12-95-02-08
-Journeymap			https://www.curseforge.com/minecraft/mc-mods/journeymap/					1.12.2-5.7.1
+Journeymap				https://www.curseforge.com/minecraft/mc-mods/journeymap/				1.12.2-5.7.1
 
 
