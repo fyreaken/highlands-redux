@@ -36,7 +36,7 @@ ProjectRed 			https://www.minecraftforum.net/forums/mapping-and-modding-java-edi
 Journeymap				https://www.curseforge.com/minecraft/mc-mods/journeymap/				1.12.2-5.7.1
 Nether Portal Spread			https://www.curseforge.com/minecraft/mc-mods/nether-portal-spread				1.12-2.1
 Dimensional Doors			https://www.curseforge.com/minecraft/mc-mods/dimensionaldoors				1.12.2-3.0.9-306
-Snad				https://www.curseforge.com/minecraft/mc-mods/snad/					1.12.1-1.7.09.16a
+Snad					https://www.curseforge.com/minecraft/mc-mods/snad/					1.12.1-1.7.09.16a
 
 
 
