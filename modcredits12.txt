@@ -35,6 +35,5 @@ Wireless Redstone CBE			https://www.curseforge.com/minecraft/mc-mods/wireless-re
 ProjectRed 			https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1290357-forge-multipart-projectred-v4-7-0pre12-95-02-08
 Journeymap				https://www.curseforge.com/minecraft/mc-mods/journeymap/				1.12.2-5.7.1
 Nether Portal Spread			https://www.curseforge.com/minecraft/mc-mods/nether-portal-spread				1.12-2.1
-DimensionalDoors			https://www.curseforge.com/minecraft/mc-mods/dimensionaldoors					1.12.2-3.0.9-306
-Just Enough Dimensions			https://www.curseforge.com/minecraft/mc-mods/just-enough-dimensions/download/2932048		1.12.2-1.6.0-dev.20200416.184714
+Dimensional Doors				https://www.curseforge.com/minecraft/mc-mods/dimensionaldoors				1.12.2-3.0.9-306
 
