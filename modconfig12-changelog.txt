@@ -68,7 +68,6 @@ Sync,
 
 Twilight Forest,
 	Enabled allowing Twilight Forest portals in other dimensions.
-	Enabled Twlight Forest portal safety checks.
 
 Waystones,
 	Enabled global waystones.
