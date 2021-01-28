@@ -15,7 +15,6 @@ Neat					https://www.curseforge.com/minecraft/mc-mods/neat/					1.4-17
 TConstruct				https://www.curseforge.com/minecraft/mc-mods/tinkers-construct/				1.12.2-2.13.0.183
 InventoryPets				https://www.curseforge.com/minecraft/mc-mods/inventory-pets/				1.12-2.0.10
 Forestry				https://www.curseforge.com/minecraft/mc-mods/forestry/					1.12.2-5.8.2.422
-AtomicStryker's Infernal Mobs		https://www.curseforge.com/minecraft/mc-mods/atomicstrykers-infernal-mobs/		1.12.2
 IC2Classic				https://www.curseforge.com/minecraft/mc-mods/ic2-classic/				1.12-1.5.5.2.1
 Buildcraft				https://www.curseforge.com/minecraft/mc-mods/buildcraft/				7.99.24.7
 Tinker's Tool Leveling			https://www.curseforge.com/minecraft/mc-mods/tinkers-tool-leveling/			1.12.2-1.1.0
@@ -40,6 +39,6 @@ Snad					https://www.curseforge.com/minecraft/mc-mods/snad/					1.12.1-1.7.09.16
 
 
 
+Temporarily Removed:
 
-
-[ tabs, 8, soft wrap ]
+AtomicStryker's Infernal Mobs		https://www.curseforge.com/minecraft/mc-mods/atomicstrykers-infernal-mobs/		1.12.2

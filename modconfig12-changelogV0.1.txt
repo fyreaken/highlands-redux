@@ -1,0 +1,75 @@
+Config Changes:
+
+Biomes O' Plenty,
+	Enabled shears requirement to get flower drops.
+
+Modular Force Field System,
+	Enabled guide book.
+	
+InventoryPets,
+	Disabled pet crafting.
+	Disabled all recipes.
+	Enabled hardcore pet feeding.
+	Changed "Illuminati Pet" Cooldown to 5 minutes from 2 minutes.
+	Changed "Illuminati Pet" Invisibility duration to 3 minuites from 1 minute.
+	Changed "Juggernaut Pet" Cooldown to 8 minutes from 2 minutes.
+	Changed "Juggernaut Pet" Shield Wall duration to 2 minutes from 1 minute.
+	Changed "Show Holiday Messages" to false.
+	Changed "Show Names of Fan Suggestions" to false.
+	Changed "Show Update Message" to false.
+
+Modular Powersuits,
+	Enabled Power Fist customization.
+
+Aether II Highlands,
+	Enabled mod intro.
+	Enabled rideable Aerwhales.
+
+Aether I,
+	Enabled Pink Aercloud generation.
+	Disabled christmas decor.
+	Enabled naturally generating Tallgrass.
+	Disabled resourcepack installation.
+	Disabled Aether menu button.
+	Enabled updated Aercloud colors.
+	Enabled edible Ambrosium.
+	Enabled the Golden Feather to drop from dungeons.
+	Enabled the use of the Sun Altar in multiplayer.
+
+AppleSkin,
+	Disabled debug overlay details.
+	Disabled tooltip information.
+
+Dimensional Doors,
+	Enabled the requirement for Ender Pearls in Dimensional Doors recipes.
+	Disabled Monolith Teleportation.
+
+Durability Viewer,
+	Enabled "Render armor around hotbar".
+	Disabled "Set window title".
+	Disabled "Show chest icon".
+
+Minecraft Forge,
+	Enabled auto removing of Entities that throw errors.
+	Enabled auto removing of TileEntities that throw errors.
+	Enabled fixing of vanilla issues that cause worldgen cascading.
+	Disabled update check system.
+
+Neat,
+	Removed Shulker from display name blacklist.
+	Disabled healthbar being displayed on Players.
+
+Sync,
+	Enabled cross-dimensional shell syncing with the End dimension.
+	- Could cause issues.
+	- Not tested with dimensions added by mods.
+
+Twilight Forest,
+	Enabled allowing Twilight Forest portals in other dimensions.
+	Enabled Twlight Forest portal safety checks.
+
+Waystones,
+	Enabled global waystones.
+	Disabled waystone XP requirement.
+	Enabled cooldown on global waystones.
+	Enabled renaming of waystones to the waystone owner.
