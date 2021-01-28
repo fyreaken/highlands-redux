@@ -1,5 +1,7 @@
 # // Highlands Redux //
-### A experimental Minecraft Forge modpack.
+### A experimental Minecraft Forge modpack
+with an emphisis on exploration and bringing back the
+nostalgic features of Tekkit Classic.
 
 .
 
