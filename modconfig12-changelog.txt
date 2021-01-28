@@ -9,6 +9,8 @@ Modular Force Field System,
 InventoryPets,
 	Disabled pet crafting.
 	Disabled all recipes.
+	Disabled pet duplication with ProjectE.
+	Disabled pet EMC values with ProjectE.
 	Enabled hardcore pet feeding.
 	Changed "Illuminati Pet" Cooldown to 5 minutes from 2 minutes.
 	Changed "Illuminati Pet" Invisibility duration to 3 minuites from 1 minute.
