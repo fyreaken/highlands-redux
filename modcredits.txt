@@ -36,6 +36,13 @@ Journeymap				https://www.curseforge.com/minecraft/mc-mods/journeymap/				1.12.2
 Nether Portal Spread			https://www.curseforge.com/minecraft/mc-mods/nether-portal-spread			1.12-2.1
 Dimensional Doors			https://www.curseforge.com/minecraft/mc-mods/dimensionaldoors				1.12.2-3.0.9-306
 Snad					https://www.curseforge.com/minecraft/mc-mods/snad/					1.12.1-1.7.09.16a
+Rats				https://www.curseforge.com/minecraft/mc-mods/rats/						3.2.14-1.12.2
+Railcraft				https://www.curseforge.com/minecraft/mc-mods/railcraft/						12.0.0
+Jurassicraft			https://www.curseforge.com/minecraft/mc-mods/jurassicraft/					1.12.2-2.1.23
+Chisel				https://www.curseforge.com/minecraft/mc-mods/chisel/						MC1.12.2-1.0.2.45
+Portal Gun			https://www.curseforge.com/minecraft/mc-mods/portal-gun/					1.12.2-7.1.0
+Hats				https://www.curseforge.com/minecraft/mc-mods/hats/						1.12.2-7.1.1
+Thaumcraft			https://www.curseforge.com/minecraft/mc-mods/thaumcraft/					1.12.2-6.1.BETA26
 
 
 

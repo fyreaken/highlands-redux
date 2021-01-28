@@ -1,7 +1,18 @@
 -=-=-=-=-=-=- 1.1 Changes; -=-=-=-=-=-=-
 v
 
+Added mods:
 
+Chisel
+Hats
+Jurassicraft
+Portal Gun
+Railcraft
+Rats
+Thaumcraft
+
+and the necessary libraries
+required to run them.
 
 -=-=-=-=-=-=- 1.0.1 Changes; -=-=-=-=-=-=-
 v
