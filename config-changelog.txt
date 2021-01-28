@@ -1,4 +1,16 @@
-Config Changes:
+-=-=-=-=-=-=- 1.1 Changes; -=-=-=-=-=-=-
+v
+
+
+
+-=-=-=-=-=-=- 1.0.1 Changes; -=-=-=-=-=-=-
+v
+
+Twilight Forest,
+	Disabled portal safety checks.
+
+-=-=-=-=-=-=- 1.0 Changes; -=-=-=-=-=-=-
+v
 
 Biomes O' Plenty,
 	Enabled shears requirement to get flower drops.
@@ -68,6 +80,7 @@ Sync,
 
 Twilight Forest,
 	Enabled allowing Twilight Forest portals in other dimensions.
+	Enabled portal safety checks.
 
 Waystones,
 	Enabled global waystones.

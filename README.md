@@ -5,9 +5,6 @@
 .
 
 ### TechnicLauncher Link: https://www.technicpack.net/download
-### 1.12.2 TechnicPack Link: https://www.technicpack.net/modpack/highlands-redux.1809165
-### 1.16.5 TechnicPack Link: <>
+### Highlands Redux Link: https://www.technicpack.net/modpack/highlands-redux.1809165
 
-1.12.2 Mod credits can be found inside modcredits12.txt.
-
-1.16.5 Mod credits can be found inside modcredits16.txt.
+Mod credits can be found inside modcredits.txt.
