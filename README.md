@@ -1,4 +1,4 @@
-# tempname
+# Highlands Redux
 ### An experimental Minecraft Forge modpack.
  
 ### 1.12.2 TechnicPack Link: <>
