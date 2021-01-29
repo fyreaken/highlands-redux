@@ -1,4 +1,25 @@
+-=-=-=-=-=-=- 1.1.3 Changes; -=-=-=-=-=-=-
+
+	Adjusted Config:
+
+Rats,
+	Added DIM 3 and DIM 4 to spawning blacklist.
+
+-=-=-=-=-=-=- 1.1.2 Changes; -=-=-=-=-=-=-
+
+	Added mods:
+
+BetterFPS.
+
+
+	Adjusted Config:
+
+Neat,
+	Enabled to only show when entity is looked at.
+
 -=-=-=-=-=-=- 1.1.1 Changes; -=-=-=-=-=-=-
+
+	Adjusted Config:
 
 Rats,
 	Reduced Rat spawn rate by 65%.
@@ -10,8 +31,7 @@ Rats,
 
 -=-=-=-=-=-=- 1.1 Changes; -=-=-=-=-=-=-
 v
-
-Added mods:
+	Added mods:
 
 Chisel
 Hats
@@ -26,12 +46,14 @@ required to run them.
 
 -=-=-=-=-=-=- 1.0.1 Changes; -=-=-=-=-=-=-
 v
+	Adjusted Config:
 
 Twilight Forest,
 	Disabled portal safety checks.
 
 -=-=-=-=-=-=- 1.0 Changes; -=-=-=-=-=-=-
 v
+	Adjusted Config:
 
 Biomes O' Plenty,
 	Enabled shears requirement to get flower drops.
