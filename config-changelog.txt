@@ -1,3 +1,13 @@
+-=-=-=-=-=-=- 1.1.1 Changes; -=-=-=-=-=-=-
+
+Rats,
+	Reduced Rat spawn rate by 65%.
+	Reduced Pied Piper spawn rate by 45%.
+	Disabled Rats stealing from chests.
+	Disabled Rats breaking crops on harvest.
+	Increased Pied Piper hat drop rate from 0.09 to 0.40.
+	
+
 -=-=-=-=-=-=- 1.1 Changes; -=-=-=-=-=-=-
 v
 
