@@ -1,3 +1,11 @@
+-=-=-=-=-=-=- 1.1.4.1 Changes; -=-=-=-=-=-=-
+
+	Adjusted Config:
+
+PortalGun,
+	Disabled seeing through portals due to a
+	visual glitch.
+
 -=-=-=-=-=-=- 1.1.4 Changes; -=-=-=-=-=-=-
 
 	Adjusted Config:
