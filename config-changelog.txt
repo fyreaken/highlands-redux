@@ -1,3 +1,10 @@
+-=-=-=-=-=-=- 1.1.5 Changes; -=-=-=-=-=-=-
+
+	Adjusted Mod List:
+
+Removed Aether II Highlands due to
+performance issues.
+
 -=-=-=-=-=-=- 1.1.4.1 Changes; -=-=-=-=-=-=-
 
 	Adjusted Config:
