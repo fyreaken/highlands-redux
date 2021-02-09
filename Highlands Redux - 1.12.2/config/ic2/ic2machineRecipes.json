@@ -41,7 +41,29 @@
   "item.itemRawBioFiber_1989187680": true,
   "ic2exprecipe_Forcicium_": true,
   "item.projectred.core.itemResource.electrotine_dust_-1694037871": true,
-  "item.modularforcefieldsystem.forcicium_-584000329": true
+  "item.modularforcefieldsystem.forcicium_-584000329": true,
+  "ic2exprecipe_Raw Firestone_": true,
+  "ic2exprecipe_Copper Dust_": true,
+  "ic2exprecipe_Tin Dust_": true,
+  "ic2exprecipe_Iron Dust_": true,
+  "ic2exprecipe_Gold Dust_": true,
+  "ic2exprecipe_Silver Dust_": true,
+  "ic2exprecipe_Crushed Obsidian_": true,
+  "ic2exprecipe_Obsidian Dust_": true,
+  "item.railcraft.dust.sulfur_-1869167416": true,
+  "item.railcraft.dust.saltpeter_907682254": true,
+  "item.railcraft.dust.void_467026562": true,
+  "item.immersiveengineering.metal.dust_uranium_1853861617": true,
+  "item.immersiveengineering.metal.dust_steel_-645074246": true,
+  "item.immersiveengineering.metal.dust_lead_-20769439": true,
+  "item.immersiveengineering.metal.dust_nickel_802783537": true,
+  "item.immersiveengineering.metal.dust_lead_-614505306": true,
+  "item.immersiveengineering.metal.dust_nickel_1453265718": true,
+  "item.immersiveengineering.metal.dust_aluminum_-68517789": true,
+  "item.immersiveengineering.metal.dust_aluminum_1883331486": true,
+  "item.immersiveengineering.metal.dust_constantan_1636052552": true,
+  "item.immersiveengineering.metal.dust_electrum_1652277789": true,
+  "item.immersiveengineering.material.dust_hop_graphite_340458191": true
  },
  "extractor": {
   "item.coal_764578481": true,
@@ -73,7 +95,8 @@
   "item.dyePowder.magenta_1192534056": true,
   "item.dyePowder.red_1192536567": true,
   "item.dyePowder.pink_1192537776": true,
-  "item.dyePowder.red_-405206020": true
+  "item.dyePowder.red_-405206020": true,
+  "item.immersiveengineering.material.hemp_fiber_1576378212": true
  },
  "compressor": {
   "tile.sandStone.default_1494879518": true,
@@ -189,7 +212,23 @@
   "ingotRecycling_ingotFiery": true,
   "ingotRecycling_ingotIronwood": true,
   "ingotRecycling_ingotKnightmetal": true,
-  "ingotRecycling_ingotSteeleaf": true
+  "ingotRecycling_ingotSteeleaf": true,
+  "ingotRecycling_ingotSteel": true,
+  "ingotRecycling_ingotLead": true,
+  "ingotRecycling_ingotNickel": true,
+  "ingotRecycling_ingotInvar": true,
+  "ingotRecycling_ingotZinc": true,
+  "ingotRecycling_ingotBrass": true,
+  "ingotRecycling_ingotThaumium": true,
+  "ingotRecycling_ingotVoid": true,
+  "ingotRecycling_ingotDawnstone": true,
+  "ingotRecycling_ingotAluminum": true,
+  "ingotRecycling_ingotAluminium": true,
+  "ingotRecycling_ingotElectrum": true,
+  "ingotRecycling_ingotValkryie": true,
+  "ingotRecycling_ingotConstantan": true,
+  "ingotRecycling_ingotHOPGraphite": true,
+  "ingotRecycling_ingotValkyrie": true
  },
  "sawmill": {
   "tile.wood.oak_-867074482": true,
@@ -383,6 +422,10 @@
   "tile.skyroot_plank_To_Sticks_-1886773119": true,
   "tile.skyroot_plank_To_Sticks_-1886773119_1": true,
   "tile.log.jungle_-1814706450": true,
-  "item.melon_-1083706285": true
+  "item.melon_-1083706285": true,
+  "tile.plank_greatwood_-1369369025": true,
+  "tile.plank_silverwood_1273833603": true,
+  "tile.plank_greatwood_To_Sticks_-1125468894": true,
+  "tile.plank_silverwood_To_Sticks_-322602296": true
  }
 }

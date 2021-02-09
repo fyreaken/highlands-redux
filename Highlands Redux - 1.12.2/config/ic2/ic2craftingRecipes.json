@@ -829,5 +829,7 @@
  "shaped_tile.wood.big_oak_1322879647": true,
  "shaped_tile.pistonStickyBase_1809078030": true,
  "shaped_item.leash_-1938246599": true,
- "shaped_item.modularforcefieldsystem.forcicium_96723113": true
+ "shaped_item.modularforcefieldsystem.forcicium_96723113": true,
+ "shaped_tile.railcraft.manipulator.loader.ic2_1050833862": true,
+ "shaped_tile.railcraft.manipulator.unloader.ic2_-448992667": true
 }

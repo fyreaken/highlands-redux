@@ -1,12 +1,11 @@
 Mod Name:				Mod Link:										Version:
 
-Forge					http://files.minecraftforge.net/							1.12.2-14.23.5.2854
+Forge					http://files.minecraftforge.net/							1.12.2-14.23.5.2846
 Aether I				https://www.curseforge.com/minecraft/mc-mods/the-aether					1.12.2-v1.5.3.1
 Aether I: Lost Content			https://www.curseforge.com/minecraft/mc-mods/aether-lost-content/			1.12.2-v1.0.2
-Aether II Highlands			https://www.curseforge.com/minecraft/mc-mods/the-aether-ii				1.12.2-0.3.0+build411-universal
 ProjectE				https://www.curseforge.com/minecraft/mc-mods/projecte					1.12.2-PE1.4.1
 Waystones				https://www.curseforge.com/minecraft/mc-mods/waystones					1.12.2-4.1.0
-Biomes O' Plenty			https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty/				1.12.2-7.0.1.2444-universal
+Biomes O' Plenty			https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty/				1.12.2-7.0.1.2441-universal
 AppleSkin				https://www.curseforge.com/minecraft/mc-mods/appleskin/					mc1.12-1.0.14.jar
 Just Enough Items			https://www.curseforge.com/minecraft/mc-mods/jei/					1.12.2-4.16.1.302
 Optifine				https://optifine.net/downloads								1.12.2_HD_U_G5
@@ -14,7 +13,7 @@ Twilight Forest				https://www.curseforge.com/minecraft/mc-mods/the-twilight-for
 Neat					https://www.curseforge.com/minecraft/mc-mods/neat/					1.4-17
 TConstruct				https://www.curseforge.com/minecraft/mc-mods/tinkers-construct/				1.12.2-2.13.0.183
 InventoryPets				https://www.curseforge.com/minecraft/mc-mods/inventory-pets/				1.12-2.0.10
-Forestry				https://www.curseforge.com/minecraft/mc-mods/forestry/					1.12.2-5.8.2.422
+Forestry				https://www.curseforge.com/minecraft/mc-mods/forestry/					1.12.2-5.8.2.406
 IC2Classic				https://www.curseforge.com/minecraft/mc-mods/ic2-classic/				1.12-1.5.5.2.1
 Buildcraft				https://www.curseforge.com/minecraft/mc-mods/buildcraft/				7.99.24.7
 Tinker's Tool Leveling			https://www.curseforge.com/minecraft/mc-mods/tinkers-tool-leveling/			1.12.2-1.1.0
@@ -28,11 +27,9 @@ Durability Viewer			https://www.curseforge.com/minecraft/mc-mods/giselbaers-dura
 Redstone Paste				https://www.curseforge.com/minecraft/mc-mods/redstone-paste/				mc1.12-1.7.5
 Blur					https://www.curseforge.com/minecraft/mc-mods/blur/					1.0.4
 Corpse					https://www.curseforge.com/minecraft/mc-mods/corpse/					1.12.2-1.0.8
-Ping					https://www.curseforge.com/minecraft/mc-mods/ping/					1.12.2-1.4.5
 Better Ping Display			https://www.curseforge.com/minecraft/mc-mods/better-ping-display			1.12.2-1.0
 Wireless Redstone CBE			https://www.curseforge.com/minecraft/mc-mods/wireless-redstone-cbe/			1.12.2-2.3.2.33-universal
 Journeymap				https://www.curseforge.com/minecraft/mc-mods/journeymap/				1.12.2-5.7.1
-Nether Portal Spread			https://www.curseforge.com/minecraft/mc-mods/nether-portal-spread			1.12-2.1
 Dimensional Doors			https://www.curseforge.com/minecraft/mc-mods/dimensionaldoors				1.12.2-3.0.9-306
 Snad					https://www.curseforge.com/minecraft/mc-mods/snad/					1.12.1-1.7.09.16a
 Rats					https://www.curseforge.com/minecraft/mc-mods/rats/					3.2.14-1.12.2
@@ -42,6 +39,15 @@ Chisel					https://www.curseforge.com/minecraft/mc-mods/chisel/					MC1.12.2-1.0
 Portal Gun				https://www.curseforge.com/minecraft/mc-mods/portal-gun/				1.12.2-7.1.0
 Hats					https://www.curseforge.com/minecraft/mc-mods/hats/					1.12.2-7.1.1
 Thaumcraft				https://www.curseforge.com/minecraft/mc-mods/thaumcraft/				1.12.2-6.1.BETA26
+Embers Rekindled				https://www.curseforge.com/minecraft/mc-mods/embers-rekindled				1.17
+ProjectRed 				https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1290357-forge-multipart-projectred-v4-7-0pre12-95-02-08
+Tinkers' Aether				https://www.curseforge.com/minecraft/mc-mods/tinkers-aether-dman-edition			1.4.0
+Oreberries				https://www.curseforge.com/minecraft/mc-mods/oreberries/				0.5.0
+Openblocks Elevator			https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator/			1.12.2-1.3.14
+Tinkers' Complement			https://www.curseforge.com/minecraft/mc-mods/tinkers-complement/			1.12.2-0.4.3
+Construct's Armory				https://www.curseforge.com/minecraft/mc-mods/constructs-armory/				1.12.2-1.2.5.10
+Immersive Engineering			https://www.curseforge.com/minecraft/mc-mods/immersive-engineering/			0.12-98
+MrCrayfish's Gun Mod			https://www.curseforge.com/minecraft/mc-mods/mrcrayfishs-gun-mod/			0.15.3
 
 
 
