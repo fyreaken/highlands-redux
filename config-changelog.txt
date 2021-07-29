@@ -1,23 +1,19 @@
--=-=-=-=-=-=- 2.0 Changes; -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+-=-=-=-=-=-=- 2.1 Changes; -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-Forge base version changed due to catastrophic server-
-side issues with certain mods that are integral to the modpack.
-For example, 60 second tick watchdog crashes.
+Performance and Balancing Update
 
-Aether II Highlands has been removed due to the mod
-continuously generating world files and causing lag.
-It's not supposed to be ran on a server anyway.
+Removed Mods:
 
-Ping has been removed for being absolutely useless.
+Modular Force-field System
+Inventory Pets
+Neat
 
-Added Embers Rekindled.
-Added ProjectRed again, it works properly now.
-Added Tinkers' Aether.
-Added Oreberries.
-Added Openblocks Elevator.
-Added Tinker's Complement.
-Added Construct's Armory.
-Added Immersive Engineering.
-Added MrCrayfish's Gun Mod.
+Added:
+
+FoamFix
+Phosphor
+TexFix
+VanillaFix
+ShaderPack: Sora Shaders
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
