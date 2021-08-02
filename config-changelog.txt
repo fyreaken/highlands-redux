@@ -7,6 +7,7 @@ Removed Mods:
 Modular Force-field System
 Inventory Pets
 Neat
+Crayfish's Gun Mod
 
 Added:
 

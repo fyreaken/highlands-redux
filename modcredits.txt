@@ -44,10 +44,7 @@ Openblocks Elevator			https://www.curseforge.com/minecraft/mc-mods/openblocks-el
 Tinkers' Complement			https://www.curseforge.com/minecraft/mc-mods/tinkers-complement/			1.12.2-0.4.3
 Construct's Armory			https://www.curseforge.com/minecraft/mc-mods/constructs-armory/				1.12.2-1.2.5.10
 Immersive Engineering			https://www.curseforge.com/minecraft/mc-mods/immersive-engineering/			0.12-98
-MrCrayfish's Gun Mod			https://www.curseforge.com/minecraft/mc-mods/mrcrayfishs-gun-mod/			0.15.3
 FoamFix					https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod			0.10.14-1.12.2
 Phosphor				https://www.curseforge.com/minecraft/mc-mods/phosphor-forge				1.12.2-0.2.6+build50-universal
 TexFix					https://www.curseforge.com/minecraft/mc-mods/texfix					1.12-4.0
 VanillaFix				https://www.curseforge.com/minecraft/mc-mods/vanillafix					1.0.10-150
-
-Shader Pack:				Sora_Shaders_1.12
