@@ -1,0 +1,30 @@
+
+#These options affect the gameplay while using the mod.
+[gameplay]
+	#Number of ticks until the next discharge. Lower = faster. # 20 ticks = 1 second. Default: 100 (5 seconds)
+	#Range: > 0
+	frequency = 100
+	#Multiplier that is multiplied against Toss Power.
+	#Default: 4
+	#Range: > 0
+	tossMultiplier = 4
+	#Each grinder will yield at least this many times before exploding.
+	#Set to 0 for infinite.
+	#Default: 8
+	#Range: > 0
+	grinderYield = 8
+	#Each grinder has a minimum chance to yield this many times.
+	#Default: 8
+	#Range: > 0
+	randomExtraYield = 8
+	#Power at which the drop is tossed from the mob.
+	#Default: 5
+	#Range: > 0
+	tossPower = 5
+	#Magnitude of explosion caused by failed grinding. Default creeper explosion magnitude is 300.
+	#Default: 150
+	#Range: > 0
+	explosionMagnitude = 150
+	#Entities to disable from having the attachable grinder attached. By resource name (eg: minecraft:pig)
+	disabledEntities = []
+

@@ -1,0 +1,464 @@
+{
+  "entries": [
+    {
+      "item": "immersiveengineering:storage_constantan",
+      "emc": 486
+    },
+    {
+      "item": "immersiveengineering:slab_storage_constantan",
+      "emc": 243
+    },
+    {
+      "item": "immersiveengineering:storage_electrum",
+      "emc": 11520
+    },
+    {
+      "item": "immersiveengineering:slab_storage_electrum",
+      "emc": 5760
+    },
+    {
+      "item": "immersiveengineering:plate_copper",
+      "emc": 128
+    },
+    {
+      "item": "immersiveengineering:plate_aluminum",
+      "emc": 128
+    },
+    {
+      "item": "immersiveengineering:plate_lead",
+      "emc": 512
+    },
+    {
+      "item": "immersiveengineering:plate_silver",
+      "emc": 512
+    },
+    {
+      "item": "immersiveengineering:plate_nickel",
+      "emc": 1024
+    },
+    {
+      "item": "immersiveengineering:plate_uranium",
+      "emc": 4096
+    },
+    {
+      "item": "immersiveengineering:plate_constantan",
+      "emc": 54
+    },
+    {
+      "item": "immersiveengineering:plate_electrum",
+      "emc": 1280
+    },
+    {
+      "item": "immersiveengineering:plate_steel",
+      "emc": 252
+    },
+    {
+      "item": "immersiveengineering:plate_iron",
+      "emc": 256
+    },
+    {
+      "item": "immersiveengineering:plate_gold",
+      "emc": 2048
+    },
+    {
+      "item": "immersiveengineering:coke",
+      "emc": 1152
+    },
+    {
+      "item": "immersiveengineering:hempcrete",
+      "emc": 28
+    },
+    {
+      "item": "immersiveengineering:treated_wood_horizontal",
+      "emc": 12
+    },
+    {
+      "item": "immersiveengineering:gunpowder_barrel",
+      "emc": 1062
+    },
+    {
+      "item": "immersiveengineering:turntable",
+      "emc": 1184
+    },
+    {
+      "item": "immersiveengineering:strip_curtain",
+      "emc": 456
+    },
+    {
+      "item": "immersiveengineering:generator",
+      "emc": 2872
+    },
+    {
+      "item": "immersiveengineering:transformer",
+      "emc": 7080
+    },
+    {
+      "item": "immersiveengineering:transformer_hv",
+      "emc": 2720
+    },
+    {
+      "item": "immersiveengineering:blastfurnace_preheater",
+      "emc": 4040
+    },
+    {
+      "item": "immersiveengineering:furnace_heater",
+      "emc": 2248
+    },
+    {
+      "item": "immersiveengineering:dynamo",
+      "emc": 1672
+    },
+    {
+      "item": "immersiveengineering:thermoelectric_generator",
+      "emc": 1802
+    },
+    {
+      "item": "immersiveengineering:electric_lantern",
+      "emc": 405
+    },
+    {
+      "item": "immersiveengineering:charging_station",
+      "emc": 1571
+    },
+    {
+      "item": "immersiveengineering:fluid_pipe",
+      "emc": 192
+    },
+    {
+      "item": "immersiveengineering:cloche",
+      "emc": 1052
+    },
+    {
+      "item": "immersiveengineering:stick_steel",
+      "emc": 126
+    },
+    {
+      "item": "immersiveengineering:hemp_fabric",
+      "emc": 196
+    },
+    {
+      "item": "immersiveengineering:slag",
+      "emc": 16
+    },
+    {
+      "item": "immersiveengineering:hemp_fiber",
+      "emc": 24
+    },
+    {
+      "item": "immersiveengineering:windmill_sail",
+      "emc": 1176
+    },
+    {
+      "item": "immersiveengineering:gunpart_barrel",
+      "emc": 252
+    },
+    {
+      "item": "immersiveengineering:gunpart_drum",
+      "emc": 1648
+    },
+    {
+      "item": "immersiveengineering:gunpart_hammer",
+      "emc": 1260
+    },
+    {
+      "item": "immersiveengineering:dust_coke",
+      "emc": 128
+    },
+    {
+      "item": "immersiveengineering:dust_hop_graphite",
+      "emc": 1024
+    },
+    {
+      "item": "immersiveengineering:wire_copper",
+      "emc": 64
+    },
+    {
+      "item": "immersiveengineering:wire_electrum",
+      "emc": 640
+    },
+    {
+      "item": "immersiveengineering:wire_aluminum",
+      "emc": 64
+    },
+    {
+      "item": "immersiveengineering:wire_steel",
+      "emc": 126
+    },
+    {
+      "item": "immersiveengineering:dust_saltpeter",
+      "emc": 32
+    },
+    {
+      "item": "immersiveengineering:dust_sulfur",
+      "emc": 32
+    },
+    {
+      "item": "immersiveengineering:electron_tube",
+      "emc": 384
+    },
+    {
+      "item": "immersiveengineering:drill",
+      "emc": 3072
+    },
+    {
+      "item": "immersiveengineering:drillhead_iron",
+      "emc": 5796
+    },
+    {
+      "item": "immersiveengineering:drillhead_steel",
+      "emc": 5888
+    },
+    {
+      "item": "immersiveengineering:mold_plate",
+      "emc": 1524
+    },
+    {
+      "item": "immersiveengineering:mold_gear",
+      "emc": 1524
+    },
+    {
+      "item": "immersiveengineering:mold_rod",
+      "emc": 1524
+    },
+    {
+      "item": "immersiveengineering:mold_bullet_casing",
+      "emc": 1524
+    },
+    {
+      "item": "immersiveengineering:mold_wire",
+      "emc": 1524
+    },
+    {
+      "item": "immersiveengineering:mold_packing_4",
+      "emc": 1524
+    },
+    {
+      "item": "immersiveengineering:mold_packing_9",
+      "emc": 1524
+    },
+    {
+      "item": "immersiveengineering:mold_unpacking",
+      "emc": 1524
+    },
+    {
+      "item": "immersiveengineering:revolver",
+      "emc": 3988
+    },
+    {
+      "item": "immersiveengineering:speedloader",
+      "emc": 1276
+    },
+    {
+      "item": "immersiveengineering:chemthrower",
+      "emc": 9032
+    },
+    {
+      "item": "immersiveengineering:railgun",
+      "emc": 23870
+    },
+    {
+      "item": "immersiveengineering:empty_casing",
+      "emc": 64
+    },
+    {
+      "item": "immersiveengineering:empty_shell",
+      "emc": 44
+    },
+    {
+      "item": "immersiveengineering:casull",
+      "emc": 257
+    },
+    {
+      "item": "immersiveengineering:armor_piercing",
+      "emc": 257
+    },
+    {
+      "item": "immersiveengineering:buckshot",
+      "emc": 257
+    },
+    {
+      "item": "immersiveengineering:he",
+      "emc": 257
+    },
+    {
+      "item": "immersiveengineering:silver",
+      "emc": 257
+    },
+    {
+      "item": "immersiveengineering:dragons_breath",
+      "emc": 257
+    },
+    {
+      "item": "immersiveengineering:potion",
+      "emc": 257
+    },
+    {
+      "item": "immersiveengineering:flare",
+      "emc": 257
+    },
+    {
+      "item": "immersiveengineering:toolupgrade_drill_waterproof",
+      "emc": 5632
+    },
+    {
+      "item": "immersiveengineering:toolupgrade_drill_lube",
+      "emc": 23424
+    },
+    {
+      "item": "immersiveengineering:toolupgrade_drill_damage",
+      "emc": 1388
+    },
+    {
+      "item": "immersiveengineering:toolupgrade_drill_capacity",
+      "emc": 2712
+    },
+    {
+      "item": "immersiveengineering:toolupgrade_revolver_bayonet",
+      "emc": 1032
+    },
+    {
+      "item": "immersiveengineering:toolupgrade_revolver_magazine",
+      "emc": 1404
+    },
+    {
+      "item": "immersiveengineering:toolupgrade_chemthrower_focus",
+      "emc": 2736
+    },
+    {
+      "item": "immersiveengineering:toolupgrade_railgun_scope",
+      "emc": 512
+    },
+    {
+      "item": "immersiveengineering:toolupgrade_railgun_capacitors",
+      "emc": 18306
+    },
+    {
+      "item": "immersiveengineering:toolupgrade_shield_magnet",
+      "emc": 1160
+    },
+    {
+      "item": "immersiveengineering:toolupgrade_chemthrower_multitank",
+      "emc": 6248
+    },
+    {
+      "item": "immersiveengineering:blueprint{blueprint:\"components\"}",
+      "emc": 2892
+    },
+    {
+      "item": "immersiveengineering:blueprint{blueprint:\"molds\"}",
+      "emc": 2892
+    },
+    {
+      "item": "immersiveengineering:blueprint{blueprint:\"bullet\"}",
+      "emc": 2892
+    },
+    {
+      "item": "immersiveengineering:blueprint{blueprint:\"specialBullet\"}",
+      "emc": 2892
+    },
+    {
+      "item": "immersiveengineering:blueprint{blueprint:\"electrode\"}",
+      "emc": 2892
+    },
+    {
+      "item": "immersiveengineering:blueprint{blueprint:\"bannerpatterns\"}",
+      "emc": 2892
+    },
+    {
+      "item": "immersiveengineering:firework",
+      "emc": 257
+    },
+    {
+      "item": "immersiveengineering:homing",
+      "emc": 257
+    },
+    {
+      "item": "immersiveengineering:wolfpack",
+      "emc": 257
+    },
+    {
+      "item": "immersiveengineering:skyhook",
+      "emc": 1712
+    },
+    {
+      "item": "immersiveengineering:fluorescent_tube",
+      "emc": 4870
+    },
+    {
+      "item": "immersiveengineering:maintenance_kit{Damage:0}",
+      "emc": 716
+    },
+    {
+      "item": "hats:hat_launcher{hats_hatPart:{hsbH:0.0f,partCount:0,clrR:0.0f,count:1,isNew:0b,hsbS:0.0f,clrG:0.0f,isShowing:1b,enchanted:0b,clrA:0.0f,clrB:0.0f,name:\":random\",hsbB:0.0f,isFavourite:0b}}",
+      "emc": 50000
+    },
+    {
+      "item": "create:limestone_bricks",
+      "emc": 16
+    },
+    {
+      "item": "create:fancy_limestone_bricks",
+      "emc": 16
+    },
+    {
+      "item": "create:layered_limestone",
+      "emc": 16
+    },
+    {
+      "item": "create:limestone",
+      "emc": 16
+    },
+    {
+      "item": "create:limestone_cobblestone",
+      "emc": 16
+    },
+    {
+      "item": "create:weathered_limestone",
+      "emc": 16
+    },
+    {
+      "item": "create:weathered_limestone_cobblestone",
+      "emc": 16
+    },
+    {
+      "item": "create:natural_scoria",
+      "emc": 49
+    },
+    {
+      "item": "tconstruct:sky_slime_sling{Damage:0}",
+      "emc": 248
+    },
+    {
+      "item": "tconstruct:ichor_slime_sling{Damage:0}",
+      "emc": 248
+    },
+    {
+      "item": "tconstruct:ender_slime_sling{Damage:0}",
+      "emc": 248
+    },
+    {
+      "item": "tconstruct:sky_slime_boots",
+      "emc": 320
+    },
+    {
+      "item": "tconstruct:ichor_slime_boots",
+      "emc": 320
+    },
+    {
+      "item": "tconstruct:ender_slime_boots",
+      "emc": 320
+    },
+    {
+      "item": "tconstruct:blood_slime_boots",
+      "emc": 320
+    },
+    {
+      "item": "tconstruct:seared_stone",
+      "emc": 16
+    },
+    {
+      "item": "tconstruct:seared_cobble",
+      "emc": 16
+    }
+  ]
+}
