@@ -459,6 +459,34 @@
     {
       "item": "tconstruct:seared_cobble",
       "emc": 16
+    },
+    {
+      "item": "immersiveengineering:storage_steel",
+      "emc": 2268
+    },
+    {
+      "item": "immersiveengineering:slab_storage_steel",
+      "emc": 1134
+    },
+    {
+      "item": "immersiveengineering:rs_engineering",
+      "emc": 704
+    },
+    {
+      "item": "immersiveengineering:heavy_engineering",
+      "emc": 2124
+    },
+    {
+      "item": "immersiveengineering:light_engineering",
+      "emc": 1344
+    },
+    {
+      "item": "immersiveengineering:radiator",
+      "emc": 760
+    },
+    {
+      "item": "immersiveengineering:nugget_steel",
+      "emc": 28
     }
   ]
 }
