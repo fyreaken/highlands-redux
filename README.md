@@ -5,6 +5,6 @@
 
 ### TechnicLauncher Link: https://www.technicpack.net/download
 ### Highlands Redux 1.12: https://www.technicpack.net/modpack/highlands-redux.1809165
-### Highlands Redux 1.16.5:
+### Highlands Redux 1.16.5: https://www.technicpack.net/modpack/highlands-redux-1165.1871677
 
 Mod credits can be found inside modcredits.txt.
