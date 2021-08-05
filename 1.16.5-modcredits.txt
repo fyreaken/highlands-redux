@@ -2,28 +2,28 @@ Mod Name:				Mod Link:										Version:
 
 Forge					http://files.minecraftforge.net/							1.16.5-36.2.0
 Hwyla					https://www.curseforge.com/minecraft/mc-mods/hwyla					1.10.11-B78_1.16.2
-AppleSkin					https://www.curseforge.com/minecraft/mc-mods/appleskin				mc1.16.x-2.1.0
-Biomes O' Plenty				https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty				1.16.5-13.1.0.481
+AppleSkin				https://www.curseforge.com/minecraft/mc-mods/appleskin					mc1.16.x-2.1.0
+Biomes O' Plenty			https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty				1.16.5-13.1.0.481
 Chisel					https://www.curseforge.com/minecraft/mc-mods/chisel					2.0.1-alpha.4
 Corpse					https://www.curseforge.com/minecraft/mc-mods/corpse					1.0.5
 Wireless Redstone RE			https://www.curseforge.com/minecraft/mc-mods/wireless-redstone-re			1.16.5-1.1.1
-Waystones				https://www.curseforge.com/minecraft/mc-mods/waystones				1.16.5-7.6.2
-Twilight Forest				https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest				4.0.515
+Waystones				https://www.curseforge.com/minecraft/mc-mods/waystones					1.16.5-7.6.2
+Twilight Forest				https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest			4.0.515
 TConstruct				https://www.curseforge.com/minecraft/mc-mods/tinkers-construct				3.1.0.231
 Redstone Pen				https://www.curseforge.com/minecraft/mc-mods/redstone-pen				1.16.5-1.0.6
 Rats					https://www.curseforge.com/minecraft/mc-mods/rats					7.2.0-1.16.5
-Ratlantis					https://www.curseforge.com/minecraft/mc-mods/rats-ratlantis				1.0.0-1.16.3
+Ratlantis				https://www.curseforge.com/minecraft/mc-mods/rats-ratlantis				1.0.0-1.16.3
 ProjectRed Core				https://www.curseforge.com/minecraft/mc-mods/project-red-core				1.16.5-4.10.0-beta-48-core
 ProjectRed Exploration			https://www.curseforge.com/minecraft/mc-mods/project-red-exploration			1.16.5-4.10.0-beta-48-exploration
 ProjectRed Illumination			https://www.curseforge.com/minecraft/mc-mods/project-red-illumination			1.16.5-4.10.0-beta-48-illumination
 ProjectRed Integration			https://www.curseforge.com/minecraft/mc-mods/project-red-integration			1.16.5-4.10.0-beta-48-integration
 ProjectRed Transmission			https://www.curseforge.com/minecraft/mc-mods/project-red-transmission			1.16.5-4.10.0-beta-48-transmission
 RandomPatches				https://www.curseforge.com/minecraft/mc-mods/randompatches-forge			2.4.4
-Modular Powersuits			https://www.curseforge.com/minecraft/mc-mods/modular-powersuits			1.16.4-Alpha-4
+Modular Powersuits			https://www.curseforge.com/minecraft/mc-mods/modular-powersuits				1.16.4-Alpha-4
 JEI					https://www.curseforge.com/minecraft/mc-mods/jei					1.16.5-7.7.1.116
-Attachable Grinder				https://www.curseforge.com/minecraft/mc-mods/attachable-grinder				1.16.3-10.0.0
+Attachable Grinder			https://www.curseforge.com/minecraft/mc-mods/attachable-grinder				1.16.3-10.0.0
 Hats					https://www.curseforge.com/minecraft/mc-mods/hats					1.16.5-10.3.1
 Immersive Engineering			https://www.curseforge.com/minecraft/mc-mods/immersive-engineering			1.16.5-5.0.2-137
-ProjectE					https://www.curseforge.com/minecraft/mc-mods/projecte					1.16.5-PE1.0.1B
+ProjectE				https://www.curseforge.com/minecraft/mc-mods/projecte					1.16.5-PE1.0.1B
 Create					https://www.curseforge.com/minecraft/mc-mods/create					0.3.2b
-Valhesia Structures				https://www.curseforge.com/minecraft/mc-mods/valhelsia-structures			0.1.4
+Valhesia Structures			https://www.curseforge.com/minecraft/mc-mods/valhelsia-structures			0.1.4
