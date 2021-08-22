@@ -1,29 +1,58 @@
 Mod Name:				Mod Link:										Version:
 
-Forge					http://files.minecraftforge.net/							1.16.5-36.2.0
-Hwyla					https://www.curseforge.com/minecraft/mc-mods/hwyla					1.10.11-B78_1.16.2
-AppleSkin				https://www.curseforge.com/minecraft/mc-mods/appleskin					mc1.16.x-2.1.0
+Alex's Mobs				https://www.curseforge.com/minecraft/mc-mods/alexs-mobs					1.11.1
+Antique Atlas				https://www.curseforge.com/minecraft/mc-mods/antique-atlas				6.0.1-forge-mc1.16.5
+Antique Waystones			https://www.curseforge.com/minecraft/mc-mods/antique-waystones				1.3
+Architect's Palette			https://www.curseforge.com/minecraft/mc-mods/architects-palette				1.1.4
+AtomicStryker's Infernal Mobs		https://www.curseforge.com/minecraft/mc-mods/atomicstrykers-infernal-mobs		1.16.2.1
+Attachable Grinder			https://www.curseforge.com/minecraft/mc-mods/attachable-grinder				1.16.3-10.0.0
+Atum 2: Return to the Sands		https://www.curseforge.com/minecraft/mc-mods/atum					2.2.6
+Better Ping Display			https://www.curseforge.com/minecraft/mc-mods/better-ping-display			1.0
 Biomes O' Plenty			https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty				1.16.5-13.1.0.481
+Blur					https://www.curseforge.com/minecraft/mc-mods/blur					1.1.0-1
+Carrier Bees				https://www.curseforge.com/minecraft/mc-mods/carrier-bees				0.0.4.9
 Chisel					https://www.curseforge.com/minecraft/mc-mods/chisel					2.0.1-alpha.4
 Corpse					https://www.curseforge.com/minecraft/mc-mods/corpse					1.0.5
-Wireless Redstone RE			https://www.curseforge.com/minecraft/mc-mods/wireless-redstone-re			1.16.5-1.1.1
-Waystones				https://www.curseforge.com/minecraft/mc-mods/waystones					1.16.5-7.6.2
-Twilight Forest				https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest			4.0.515
-TConstruct				https://www.curseforge.com/minecraft/mc-mods/tinkers-construct				3.1.0.231
-Redstone Pen				https://www.curseforge.com/minecraft/mc-mods/redstone-pen				1.16.5-1.0.6
-Rats					https://www.curseforge.com/minecraft/mc-mods/rats					7.2.0-1.16.5
-Ratlantis				https://www.curseforge.com/minecraft/mc-mods/rats-ratlantis				1.0.0-1.16.3
+Create Addon				https://www.curseforge.com/minecraft/mc-mods/create-addon				v5
+Create					https://www.curseforge.com/minecraft/mc-mods/create					0.3.2d
+Desolation				https://www.curseforge.com/minecraft/mc-mods/desolation-forge				1.1.0-1
+DMCLoot					https://www.curseforge.com/minecraft/mc-mods/dmcloot					beta-aug1721
+Dynamic Music				https://www.curseforge.com/minecraft/mc-mods/dynamic-music				1.3.1
+Dynamic Surroundings			https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings			4.0.4.2
+Fans					https://www.curseforge.com/minecraft/mc-mods/fans-mod					2.0.1.2
+Forge					http://files.minecraftforge.net/							1.16.5-36.2.0
+Giselbaer's Durability Viewer		https://www.curseforge.com/minecraft/mc-mods/giselbaers-durability-viewer		35.0.7-1.10
+Hats					https://www.curseforge.com/minecraft/mc-mods/hats					1.16.5-10.3.1
+Hwyla					https://www.curseforge.com/minecraft/mc-mods/hwyla					1.10.11-B78_1.16.2
+Immersive Engineering			https://www.curseforge.com/minecraft/mc-mods/immersive-engineering			1.16.5-5.0.2-137
+Immersive Portals			https://www.curseforge.com/minecraft/mc-mods/immersive-portals-for-forge		0.16-mc1.16.5-forge
+Infernal Expansion			https://www.curseforge.com/minecraft/mc-mods/infernal-expansion				Release 2.2.0
+JEI					https://www.curseforge.com/minecraft/mc-mods/jei					1.16.5-7.7.1.116
+Mannequins				https://www.curseforge.com/minecraft/mc-mods/mannequins					1.0.1
+Modular Powersuits			https://www.curseforge.com/minecraft/mc-mods/modular-powersuits				1.16.4-Alpha-4
+More Create Stuffs			https://www.curseforge.com/minecraft/mc-mods/more-create-stuffs				1.4.1a
+Mowzie's Mobs				https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs				1.5.19
+Nef's Medieval Decoration		https://www.curseforge.com/minecraft/mc-mods/neoelfeos-medieval-pub-decoration		0.9
+Nether Portal Spread			https://www.curseforge.com/minecraft/mc-mods/nether-portal-spread			5.2
+Optifine				https://optifine.net/downloads								1.16.5_HD_U_G7
+Project: Vibrant Journeys		https://www.curseforge.com/minecraft/mc-mods/project-vibrant-journeys			3.2.5
+ProjectE				https://www.curseforge.com/minecraft/mc-mods/projecte					1.16.5-PE1.0.1B
 ProjectRed Core				https://www.curseforge.com/minecraft/mc-mods/project-red-core				1.16.5-4.10.0-beta-48-core
 ProjectRed Exploration			https://www.curseforge.com/minecraft/mc-mods/project-red-exploration			1.16.5-4.10.0-beta-48-exploration
 ProjectRed Illumination			https://www.curseforge.com/minecraft/mc-mods/project-red-illumination			1.16.5-4.10.0-beta-48-illumination
 ProjectRed Integration			https://www.curseforge.com/minecraft/mc-mods/project-red-integration			1.16.5-4.10.0-beta-48-integration
 ProjectRed Transmission			https://www.curseforge.com/minecraft/mc-mods/project-red-transmission			1.16.5-4.10.0-beta-48-transmission
+Quark					https://www.curseforge.com/minecraft/mc-mods/quark					r2.4-316
+Quark Oddities				https://www.curseforge.com/minecraft/mc-mods/quark-oddities				1.16.3
 RandomPatches				https://www.curseforge.com/minecraft/mc-mods/randompatches-forge			2.4.4
-Modular Powersuits			https://www.curseforge.com/minecraft/mc-mods/modular-powersuits				1.16.4-Alpha-4
-JEI					https://www.curseforge.com/minecraft/mc-mods/jei					1.16.5-7.7.1.116
-Attachable Grinder			https://www.curseforge.com/minecraft/mc-mods/attachable-grinder				1.16.3-10.0.0
-Hats					https://www.curseforge.com/minecraft/mc-mods/hats					1.16.5-10.3.1
-Immersive Engineering			https://www.curseforge.com/minecraft/mc-mods/immersive-engineering			1.16.5-5.0.2-137
-ProjectE				https://www.curseforge.com/minecraft/mc-mods/projecte					1.16.5-PE1.0.1B
-Create					https://www.curseforge.com/minecraft/mc-mods/create					0.3.2b
+Ratlantis				https://www.curseforge.com/minecraft/mc-mods/rats-ratlantis				1.0.0-1.16.3
+Rats					https://www.curseforge.com/minecraft/mc-mods/rats					7.2.0-1.16.5
+Redstone Pen				https://www.curseforge.com/minecraft/mc-mods/redstone-pen				1.16.5-1.0.6
+Relics					https://www.curseforge.com/minecraft/mc-mods/relics-mod					0.2.6
+Sound Filters				https://www.curseforge.com/minecraft/mc-mods/sound-filters				0.14
+TConstruct				https://www.curseforge.com/minecraft/mc-mods/tinkers-construct				3.1.1.252
+Twilight Forest				https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest			4.0.546
 Valhesia Structures			https://www.curseforge.com/minecraft/mc-mods/valhelsia-structures			0.1.4
+Waila					https://www.curseforge.com/minecraft/mc-mods/hwyla					1.10.11-B78_1.16.2
+Waystones				https://www.curseforge.com/minecraft/mc-mods/waystones					1.16.5-7.6.2
+Wireless Redstone RE			https://www.curseforge.com/minecraft/mc-mods/wireless-redstone-re			1.16.5-1.1.1
